@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "name": "BLRRDPCTRS",
+    "tagline": "Producer & DJ – House, Pop, DnB, Techno",
+    "bio": "Julius, 21, Producer & DJ aus Karlsruhe, DE. Kollaborationen & Support von MoTi, Fox Stevenson, Arcando, Don Diablo, Tita Lau. 200k Streams unter eigenem Namen, 15k Monthly Spotify Listener. Releases auf Loud Memory (Sony Belgium), Chapter Eight, Magic Music, Storm, Seal Network.",
+    "email": "blrrdpctrs@gmail.com",
+    "phone": "+49 172 5833393"
+  },
+  "latest": [
+    {
+      "title": "Letzte Single – Echo",
+      "embed": "https://open.spotify.com/embed/track/DEIN_TRACK_ID",
+      "links": [
+        { "label": "Spotify", "url": "https://open.spotify.com/track/..." },
+        { "label": "YouTube", "url": "https://youtu.be/..." }
+      ]
+    }
+  ],
+  "releases": [
+    {
+      "title": "EP – Neon Dust",
+      "date": "2025-11-01",
+      "preSave": "https://presave.example.com/neon-dust"
+    }
+  ],
+  "achievements": [
+    "2M Streams gesamt",
+    "80K Monthly Listeners",
+    "Support & Plays von Don Diablo, Tita Lau and more",
+    "Releases auf Loud Memory, Chapter Eight, Magic Music, Storm, Seal Network"
+  ],
+  "shows": [
+    { "date": "2025-09-14", "city": "Berlin", "venue": "Gretchen", "ticket": "https://tickets.example.com/berlin" }
+  ],
+  "legal": {
+    "
+}
