@@ -8,11 +8,24 @@
   },
   "latest": [
     {
-      "title": "Letzte Single – Echo",
-      "embed": "https://open.spotify.com/embed/track/DEIN_TRACK_ID",
+      "title": "Album – [Titel einsetzen]",
+      "embed": "https://open.spotify.com/embed/album/4RqAmxxiIZPbHTvPIXbhhr",
       "links": [
-        { "label": "Spotify", "url": "https://open.spotify.com/track/..." },
-        { "label": "YouTube", "url": "https://youtu.be/..." }
+        { "label": "Spotify", "url": "https://open.spotify.com/intl-de/album/4RqAmxxiIZPbHTvPIXbhhr" }
+      ]
+    },
+    {
+      "title": "Track – [Titel einsetzen]",
+      "embed": "https://open.spotify.com/embed/track/3UpTjsRydM4ZLBPnCr74gg",
+      "links": [
+        { "label": "Spotify", "url": "https://open.spotify.com/intl-de/track/3UpTjsRydM4ZLBPnCr74gg" }
+      ]
+    },
+    {
+      "title": "Track – [Titel einsetzen]",
+      "embed": "https://open.spotify.com/embed/track/6Ja8DS0zRGnNKlLKtui9Xn",
+      "links": [
+        { "label": "Spotify", "url": "https://open.spotify.com/intl-de/track/6Ja8DS0zRGnNKlLKtui9Xn" }
       ]
     }
   ],
@@ -24,14 +37,19 @@
     }
   ],
   "achievements": [
-    "2M Streams gesamt",
-    "80K Monthly Listeners",
-    "Support & Plays von Don Diablo, Tita Lau and more",
+    "2 M Streams gesamt",
+    "Support & Plays von Don Diablo, Tita Lau, Fox Stevenson",
     "Releases auf Loud Memory, Chapter Eight, Magic Music, Storm, Seal Network"
   ],
   "shows": [
-    { "date": "2025-09-14", "city": "Berlin", "venue": "Gretchen", "ticket": "https://tickets.example.com/berlin" }
+    {
+      "date": "2025-09-14",
+      "city": "Berlin",
+      "venue": "Gretchen",
+      "ticket": "https://tickets.example.com/berlin"
+    }
   ],
   "legal": {
-    "
+  
+  }
 }
